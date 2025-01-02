@@ -6,7 +6,7 @@ function App() {
     <div 
       className="min-h-screen w-full bg-cover bg-center bg-no-repeat relative"
       style={{
-        backgroundImage: 'url("https://i.imgur.com/sNvT1pu.png")'
+        backgroundImage: 'url("https://i.imgur.com/W0O190M.png)'
       }}
     >
       <ConversionDisplay />
